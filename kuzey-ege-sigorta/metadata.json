@@ -1,0 +1,6 @@
+{
+  "name": "Kuzey Ege Sigorta",
+  "description": "20 yıllık tecrübe ve 12+ anlaşmalı sigorta şirketi ile Kuzey Ege’de trafik, kasko, konut, DASK, sağlık ve işyeri sigortalarında güvenilir çözüm ortağınız.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
